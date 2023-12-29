@@ -11,3 +11,60 @@ Updated: 2023-12-19 15:31:16
 
 */
 
+  @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+
+
+/* HEADER */
+
+#menu-item-315 {
+    margin-right: 20px;
+}
+
+#menu-item-315 a {
+    color: black;
+}
+
+#site-header-inner{
+    margin-right: -2px;
+}
+
+.menu-item-314 {
+    background-color: #DC9F96;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+ 
+#ast-hf-menu-1 .menu-item-314 a.menu-link  {
+    color: white;
+}
+
+/* FORMULAIRE PAGE NOUS RENCONTRER */
+
+#wpcf7-f329-p228-o1 {
+    font-family:'Syne';
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.form-subtitle input {
+    margin-top: 10px;
+    border-radius: 7px; 
+}
+
+.form-subtitle textarea {
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+#wpcf7-f329-p228-o1 .wpcf7-submit{
+    border-radius: 5px;
+    background: #E0B9B4;
+}
+
+.wpcf7 {
+    display: flex;
+}
+
+.button {
+    justify-content: center;
+}
