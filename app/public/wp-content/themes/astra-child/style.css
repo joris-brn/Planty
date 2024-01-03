@@ -166,3 +166,7 @@ Updated: 2023-12-19 15:31:16
     height: 55px;
 }
 
+#lien_admin {
+    order: -1;
+    padding-right:10px;
+}

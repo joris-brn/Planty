@@ -21,4 +21,16 @@ if ( !function_exists( 'child_theme_configurator_css' ) ):
 endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
 
+//  AJOUT FONCTION ADMIN // 
+
+function ajout_lien_admin($items, $args) {
+    if (is_user_logged_in() && current_user_can('administrator')) {
+        $lien_admin = '<li id="lien_admin" class="menu-item menu-item-object-page"><a href="' . admin_url() . '">Admin</a></li>';
+        $items .= $lien_admin;
+    }
+
+    return $items;
+}
+
+add_filter('wp_nav_menu_items', 'ajout_lien_admin', 10, 3);
 // END ENQUEUE PARENT ACTION
