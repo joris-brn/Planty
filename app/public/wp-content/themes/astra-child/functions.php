@@ -32,5 +32,9 @@ function ajout_lien_admin($items, $args) {
     return $items;
 }
 
+if (has_nav_menu('main_menu')) {
+    add_filter('wp_nav_menu_items', 'ajout_lien_admin', 10, 2);
+}
+
 add_filter('wp_nav_menu_items', 'ajout_lien_admin', 10, 3);
 // END ENQUEUE PARENT ACTION

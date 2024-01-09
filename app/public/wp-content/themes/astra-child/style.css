@@ -151,10 +151,16 @@ Updated: 2023-12-19 15:31:16
 .boutoncde{
     padding-top: 40px;
     display: flex;
+    text-align: center;
     justify-content: center;
     align-items: center;
     margin: 0;
 }
+.boutoncde p {
+    display: flex;
+    flex-direction: column;
+}
+
 
 #btn_cde {
     font-family: Syne;
@@ -166,7 +172,76 @@ Updated: 2023-12-19 15:31:16
     height: 55px;
 }
 
+
+
+/* ADMIN MENU */
+
 #lien_admin {
-    order: -1;
-    padding-right:10px;
+    order: 2;
+    padding-right:25px;
+}
+
+.menu-item-314 {
+    order : 3;
+}
+
+/* FORMULAIRE NOUS RENCONTRER */
+
+#wpcf7-f329-p228-o1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#wpcf7-f329-p228-o1 p {
+    font-family: Syne;
+    font-size: 20px;
+    font-weight: 400;
+    
+}
+
+#wpcf7-f329-p228-o1 .areabtn  { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wpcf7-spinner {
+    display: none;
+}
+
+
+
+@media (max-width: 480px){
+    .titre {
+        display: flex;
+        justify-content: center;
+    }
+    .img_preco {
+        flex-direction: column;
+        align-items: center;
+    }
+    #wpcf7-f439-p312-o1 .conteneur_form .wpcf7-text {
+        border-radius: 7px;
+        margin-top: 10px;
+        width: 100%;
+    }
+    #wpcf7-f439-p312-o1  {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #wpcf7-f439-p312-o1 .conteneur_form  {
+        padding-top: 30px;
+        justify-content: center;
+    }
+
+    #wpcf7-f439-p312-o1 .conteneur_1 {
+        border-right: none;
+        padding: 0;
+    }
+   
 }
