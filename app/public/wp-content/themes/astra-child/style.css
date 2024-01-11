@@ -42,6 +42,12 @@ Updated: 2023-12-19 15:31:16
     color: white;
 }
 
+#ast-hf-mobile-menu a {
+    display: flex;
+    justify-content: center;        
+    font-family: 'Syne';
+    font-weight: 700;
+}
 /* FORMULAIRE PAGE NOUS RENCONTRER */
 
 #wpcf7-f329-p228-o1 {

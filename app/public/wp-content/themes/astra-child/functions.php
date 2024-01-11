@@ -23,8 +23,11 @@ add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
 
 //  AJOUT FONCTION ADMIN // 
 
+
+
 function ajout_lien_admin($items, $args) {
-    if (is_user_logged_in() && current_user_can('administrator')) {
+
+    if (is_user_logged_in() && current_user_can('administrator') && $args->theme_location == "primary"  ) {
         $lien_admin = '<li id="lien_admin" class="menu-item menu-item-object-page"><a href="' . admin_url() . '">Admin</a></li>';
         $items .= $lien_admin;
     }
