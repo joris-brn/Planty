@@ -218,9 +218,21 @@ Updated: 2023-12-19 15:31:16
     display: none;
 }
 
+@media (max-width: 1030px) {
 
+    #wpcf7-f439-p312-o1 .conteneur_form {
+        display: flex;
+        justify-content: center;
+        align-items: center ;
+        gap: 20px;  
+    }
+    #wpcf7-f439-p312-o1 .conteneur_1 {
+        border-right: none;
+        padding: 0;
+    }
+}
 
-@media (max-width: 480px){
+@media (max-width: 760px){
     .titre {
         display: flex;
         justify-content: center;
