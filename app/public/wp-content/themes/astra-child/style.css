@@ -261,5 +261,7 @@ Updated: 2023-12-19 15:31:16
         border-right: none;
         padding: 0;
     }
-   
+    .main-navigation .menu-item-314{
+        background-color: white  ;
+    }
 }

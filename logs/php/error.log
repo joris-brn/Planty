@@ -888,3 +888,144 @@ Stack trace:
 [12-Jan-2024 18:08:28 UTC] Sync process for Gutenberg Blocks is done.
 [12-Jan-2024 18:08:28 UTC] BLOCK: Getting Server Custimizer CSS
 [12-Jan-2024 18:08:28 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[16-Jan-2024 11:07:22 UTC] Sync process for Gutenberg Blocks has started.
+[16-Jan-2024 11:07:22 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[16-Jan-2024 11:07:22 UTC] BLOCK: Requests count 8
+[16-Jan-2024 11:07:22 UTC] BLOCK: Importing request 1 ..
+[16-Jan-2024 11:07:22 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[16-Jan-2024 11:07:23 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[16-Jan-2024 11:07:23 UTC] BLOCK: Completed request 1
+[16-Jan-2024 11:07:23 UTC] BLOCK: Importing request 2 ..
+[16-Jan-2024 11:07:23 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[16-Jan-2024 11:07:23 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[16-Jan-2024 11:07:24 UTC] BLOCK: Completed request 2
+[16-Jan-2024 11:07:24 UTC] BLOCK: Importing request 3 ..
+[16-Jan-2024 11:07:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[16-Jan-2024 11:07:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[16-Jan-2024 11:07:24 UTC] BLOCK: Completed request 3
+[16-Jan-2024 11:07:24 UTC] BLOCK: Importing request 4 ..
+[16-Jan-2024 11:07:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[16-Jan-2024 11:07:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[16-Jan-2024 11:07:24 UTC] BLOCK: Completed request 4
+[16-Jan-2024 11:07:24 UTC] BLOCK: Importing request 5 ..
+[16-Jan-2024 11:07:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[16-Jan-2024 11:07:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[16-Jan-2024 11:07:25 UTC] BLOCK: Completed request 5
+[16-Jan-2024 11:07:25 UTC] BLOCK: Importing request 6 ..
+[16-Jan-2024 11:07:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[16-Jan-2024 11:07:25 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[16-Jan-2024 11:07:25 UTC] BLOCK: Completed request 6
+[16-Jan-2024 11:07:25 UTC] BLOCK: Importing request 7 ..
+[16-Jan-2024 11:07:25 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[16-Jan-2024 11:07:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[16-Jan-2024 11:07:26 UTC] BLOCK: Completed request 7
+[16-Jan-2024 11:07:26 UTC] BLOCK: Importing request 8 ..
+[16-Jan-2024 11:07:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[16-Jan-2024 11:07:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[16-Jan-2024 11:07:26 UTC] BLOCK: Completed request 8
+[16-Jan-2024 11:07:26 UTC] SITE: Getting Total Sites
+[16-Jan-2024 11:07:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[16-Jan-2024 11:07:26 UTC] SITE: Request count 7
+[16-Jan-2024 11:07:26 UTC] SITE: Importing request 1 ..
+[16-Jan-2024 11:07:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[16-Jan-2024 11:07:26 UTC] SITE: Storing in option ast-block-templates-sites-1
+[16-Jan-2024 11:07:26 UTC] SITE: Completed request 1
+[16-Jan-2024 11:07:26 UTC] SITE: Importing request 2 ..
+[16-Jan-2024 11:07:26 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[16-Jan-2024 11:07:27 UTC] SITE: Storing in option ast-block-templates-sites-2
+[16-Jan-2024 11:07:27 UTC] SITE: Completed request 2
+[16-Jan-2024 11:07:27 UTC] SITE: Importing request 3 ..
+[16-Jan-2024 11:07:27 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[16-Jan-2024 11:07:27 UTC] SITE: Storing in option ast-block-templates-sites-3
+[16-Jan-2024 11:07:27 UTC] SITE: Completed request 3
+[16-Jan-2024 11:07:27 UTC] SITE: Importing request 4 ..
+[16-Jan-2024 11:07:27 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[16-Jan-2024 11:07:27 UTC] SITE: Storing in option ast-block-templates-sites-4
+[16-Jan-2024 11:07:27 UTC] SITE: Completed request 4
+[16-Jan-2024 11:07:27 UTC] SITE: Importing request 5 ..
+[16-Jan-2024 11:07:27 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[16-Jan-2024 11:07:27 UTC] SITE: Storing in option ast-block-templates-sites-5
+[16-Jan-2024 11:07:27 UTC] SITE: Completed request 5
+[16-Jan-2024 11:07:27 UTC] SITE: Importing request 6 ..
+[16-Jan-2024 11:07:27 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[16-Jan-2024 11:07:27 UTC] SITE: Storing in option ast-block-templates-sites-6
+[16-Jan-2024 11:07:27 UTC] SITE: Completed request 6
+[16-Jan-2024 11:07:27 UTC] SITE: Importing request 7 ..
+[16-Jan-2024 11:07:27 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[16-Jan-2024 11:07:27 UTC] SITE: Storing in option ast-block-templates-sites-7
+[16-Jan-2024 11:07:27 UTC] SITE: Completed request 7
+[16-Jan-2024 11:07:27 UTC] Sync process for Gutenberg Blocks is done.
+[16-Jan-2024 11:07:27 UTC] BLOCK: Getting Server Custimizer CSS
+[16-Jan-2024 11:07:27 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[16-Jan-2024 11:07:32 UTC] Blocks are up to date.
+[18-Jan-2024 09:18:15 UTC] Sync process for Gutenberg Blocks has started.
+[18-Jan-2024 09:18:15 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[18-Jan-2024 09:18:15 UTC] BLOCK: Requests count 8
+[18-Jan-2024 09:18:15 UTC] BLOCK: Importing request 1 ..
+[18-Jan-2024 09:18:15 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[18-Jan-2024 09:18:15 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[18-Jan-2024 09:18:15 UTC] BLOCK: Completed request 1
+[18-Jan-2024 09:18:15 UTC] BLOCK: Importing request 2 ..
+[18-Jan-2024 09:18:15 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[18-Jan-2024 09:18:15 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[18-Jan-2024 09:18:15 UTC] BLOCK: Completed request 2
+[18-Jan-2024 09:18:15 UTC] BLOCK: Importing request 3 ..
+[18-Jan-2024 09:18:15 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[18-Jan-2024 09:18:15 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[18-Jan-2024 09:18:15 UTC] BLOCK: Completed request 3
+[18-Jan-2024 09:18:15 UTC] BLOCK: Importing request 4 ..
+[18-Jan-2024 09:18:15 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[18-Jan-2024 09:18:15 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[18-Jan-2024 09:18:15 UTC] BLOCK: Completed request 4
+[18-Jan-2024 09:18:15 UTC] BLOCK: Importing request 5 ..
+[18-Jan-2024 09:18:15 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[18-Jan-2024 09:18:16 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[18-Jan-2024 09:18:16 UTC] BLOCK: Completed request 5
+[18-Jan-2024 09:18:16 UTC] BLOCK: Importing request 6 ..
+[18-Jan-2024 09:18:16 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[18-Jan-2024 09:18:16 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[18-Jan-2024 09:18:16 UTC] BLOCK: Completed request 6
+[18-Jan-2024 09:18:16 UTC] BLOCK: Importing request 7 ..
+[18-Jan-2024 09:18:16 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[18-Jan-2024 09:18:16 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[18-Jan-2024 09:18:16 UTC] BLOCK: Completed request 7
+[18-Jan-2024 09:18:16 UTC] BLOCK: Importing request 8 ..
+[18-Jan-2024 09:18:16 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[18-Jan-2024 09:18:16 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[18-Jan-2024 09:18:16 UTC] BLOCK: Completed request 8
+[18-Jan-2024 09:18:16 UTC] SITE: Getting Total Sites
+[18-Jan-2024 09:18:16 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[18-Jan-2024 09:18:16 UTC] SITE: Request count 7
+[18-Jan-2024 09:18:16 UTC] SITE: Importing request 1 ..
+[18-Jan-2024 09:18:16 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[18-Jan-2024 09:18:16 UTC] SITE: Storing in option ast-block-templates-sites-1
+[18-Jan-2024 09:18:17 UTC] SITE: Completed request 1
+[18-Jan-2024 09:18:17 UTC] SITE: Importing request 2 ..
+[18-Jan-2024 09:18:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[18-Jan-2024 09:18:17 UTC] SITE: Storing in option ast-block-templates-sites-2
+[18-Jan-2024 09:18:17 UTC] SITE: Completed request 2
+[18-Jan-2024 09:18:17 UTC] SITE: Importing request 3 ..
+[18-Jan-2024 09:18:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[18-Jan-2024 09:18:17 UTC] SITE: Storing in option ast-block-templates-sites-3
+[18-Jan-2024 09:18:17 UTC] SITE: Completed request 3
+[18-Jan-2024 09:18:17 UTC] SITE: Importing request 4 ..
+[18-Jan-2024 09:18:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[18-Jan-2024 09:18:17 UTC] SITE: Storing in option ast-block-templates-sites-4
+[18-Jan-2024 09:18:17 UTC] SITE: Completed request 4
+[18-Jan-2024 09:18:17 UTC] SITE: Importing request 5 ..
+[18-Jan-2024 09:18:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[18-Jan-2024 09:18:17 UTC] SITE: Storing in option ast-block-templates-sites-5
+[18-Jan-2024 09:18:17 UTC] SITE: Completed request 5
+[18-Jan-2024 09:18:17 UTC] SITE: Importing request 6 ..
+[18-Jan-2024 09:18:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[18-Jan-2024 09:18:17 UTC] SITE: Storing in option ast-block-templates-sites-6
+[18-Jan-2024 09:18:17 UTC] SITE: Completed request 6
+[18-Jan-2024 09:18:17 UTC] SITE: Importing request 7 ..
+[18-Jan-2024 09:18:17 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[18-Jan-2024 09:18:17 UTC] SITE: Storing in option ast-block-templates-sites-7
+[18-Jan-2024 09:18:17 UTC] SITE: Completed request 7
+[18-Jan-2024 09:18:17 UTC] Sync process for Gutenberg Blocks is done.
+[18-Jan-2024 09:18:17 UTC] BLOCK: Getting Server Custimizer CSS
+[18-Jan-2024 09:18:17 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[18-Jan-2024 09:18:20 UTC] Blocks are up to date.
+[18-Jan-2024 09:23:03 UTC] PHP Warning:  rename(C:\Users\joris\Local Sites\planty\app\public/wp-content/uploads/2024/01/P1-1-768x845.png.tmp.png,C:\Users\joris\Local Sites\planty\app\public/wp-content/uploads/2024/01/P1-1-768x845.png): Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus (code: 32) in C:\Users\joris\Local Sites\planty\app\public\wp-content\plugins\ewww-image-optimizer\unique.php on line 721
